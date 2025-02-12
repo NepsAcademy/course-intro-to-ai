@@ -1,4 +1,3 @@
-```markdown
 # Introduction to Artificial Intelligence - Neps Academy
 
 This repository provides all the necessary files and materials to support the course **Introduction to Artificial Intelligence** at Neps Academy.
@@ -28,4 +27,3 @@ All materials in this repository are intended to complement the lessons provided
 ---
 
 This repository is maintained to support the course **Introduction to Artificial Intelligence** at Neps Academy. For any questions or issues, please contact the course instructors or refer to the Neps Academy support channels.
-```
